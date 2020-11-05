@@ -1,0 +1,14 @@
+/* css */
+body {
+    background: rgb(66, 204, 247);
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+   color: rgb(246, 253, 255); 
+
+}
